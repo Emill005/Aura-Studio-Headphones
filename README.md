@@ -2,7 +2,7 @@
 
 A sleek, ultra-modern landing page for high-end wireless headphones inspired by Apple's minimalist design language. Built with dark mode aesthetics, high-contrast typography, and smooth interactive elements.
 
-🌐 **Live Demo:** [https://your-site-link-here.com](https://your-site-link-here.com)
+🌐 **Live Demo:** [https://your-site-link-here.com](https://bolt.new/~/sb1-zqhxhbd6)
 
 ---
 
